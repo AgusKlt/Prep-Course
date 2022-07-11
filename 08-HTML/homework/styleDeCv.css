@@ -1,0 +1,41 @@
+h1 {
+    font-weight: 700;
+    font-size: 50px;
+    color: brown;
+}
+
+h4 {
+    font-weight: bolder;
+}
+
+body {
+    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+    text-align: center;
+}
+
+.divEduc {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.divSkillsYHobby {
+    font-weight: 500;
+    font-size: 25px;
+}
+
+#divImagen {
+    display: flex;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imagen {
+    display: flex;
+    height: 500px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
